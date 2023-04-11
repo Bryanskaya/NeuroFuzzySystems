@@ -30,3 +30,4 @@
 Отзыв -- процент правильных положительных прогнозов по отношению к общему количеству фактических положительных результатов.
 Оценка F1 -- Чем ближе к 1, тем лучше модель. 2 * (Точность * Отзыв) / (Точность + Отзыв)
 
+![кросс-валидация](https://medium.com/@svanillasun/how-to-deal-with-cross-validation-based-on-knn-algorithm-compute-auc-based-on-naive-bayes-ff4b8284cff4)
